@@ -1,0 +1,18 @@
+. ping
+. allvar
+. online on
+. areact on
+.setvar CMD_REACTION=true
+.setvar ALWAYS_ONLINE=true
+.setvar AUTO_STATUS_VIEW=hide-view
+.setvar AUTO_STATUS_VIEW=on
+.setvar AUTO_STATUS_VIEW=only-view jid,jid,jid
+.setvar STICKER_PACKNAME= BIHAR_KE_BAHUBALI,Vikram_Laheri_
+.setvar STATUS_VIEW_EMOJI=🩷,🩵,💛,❤️,💙,❤️‍🩹,🥹,🎊,😄,🤗,📚,😻,🩷,💞,💓,💚,❤️‍🔥,💔,🫀,👀,🤍,🖤,🌹,💐,🌺,🪷,🌼,🌻,🪻,🍁,🍰,🤕,🤐,🤔,🧑‍⚖️,👻,🤭,👾,😕,✒️,🐜,🦋,🍓,🥝,🥦,🍇,👑,😅,🤖,💸,🫰,🇮🇳,💍,🎉,🎁,🎈,🏠,🎯,🫡,👇,🥹,😌,✨,🔒,😎,🔥,💀,⛔,🚫,⚠️,🧨,💣,🔪,🔫,🕷️,🕸️,🦂,🐍,🦁,🐺,👁️,🧠,🛡️,⚔️,🏴‍☠️,🗡️,⛓️,🔱,🕶️,💯,🚀,🎯,🗿,🧿,🔍,👑🔥
+.setvar STATUS_VIEW_EMOJI=❤️,💖,💗,💕,💞,💓,💘,💝,🩷,❤️‍🔥,💙,💜,🤍,🌹,🌸,🌺,🌼,🪷,✨,💫,🌟,⭐,🎉,🎊,🎈,🎁,🥳,😊,😄,😁,😉,😎,🤗,🥰,😍,😘,😌,🫶,🙌,👏,👌,👍,🫡,👑,💯,🔥,🚀,🎯,🧿,🍫,🍓,🍒,🍰,☕,🎵,🎶,🎧,📸,🦋,🕊️,🌈,☀️,🌙,⚡,💎,🪄,🍀,🌊,🏆,🎮,📱,💻,⌚,🧸,🎀,🌺🔥,😇,🤩,😻,🤍✨,💖✨,🌸💫
+. plugin https://gist.github.com/riteshxd159/546288cd3752507499de975b0a9ceeae.js
+. plugin https://gist.github.com/DevaNayak-296/e210fdc7c2fbfab2444d5194419c1fe2
+. plugin https://gist.github.com/lyfe00011/3d1921792c93d7c6d89b175f35dc9289
+. plugin https://gist.github.com/lyfe00011/8f4cc76d99a49f36919934befe1d6507
+. plugin https://gist.github.com/lyfe00011/e9595f37d80ad9ee6d61a11ecb820b8c
+. delete p
